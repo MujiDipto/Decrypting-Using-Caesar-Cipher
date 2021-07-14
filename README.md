@@ -24,10 +24,10 @@ python3 main.py
 
 ### Example Usage
 
-Enter the cipher text
+Enter the plaintext and key
 
 <img src="screenshots/1.png" alt="app screenshot">
 
-Get the plain text and the key
+Get the cipher text
 
 <img src="screenshots/2.png" alt="app screenshot">
